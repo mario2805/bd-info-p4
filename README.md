@@ -1,2 +1,7 @@
-# bd-info-p4
-Repositório destinado à disciplina de Banco de Dados, ministrada por Ricardo Duarte Taveira.
+# Banco de Dados
+
+> Repositório reservado para a disciplina de Banco de Dados, parte do curso Técnico Integrado em Informática do IFCE.
+
+**Aluno:** Mário Soares Néo
+
+**Professor:** Ricardo Duarte Taveira
